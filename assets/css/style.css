@@ -186,7 +186,7 @@ figure:hover:before {
   cursor: pointer;
 }
 
-.dj:before{
+/* .dj:before{
 content: '';
   background: linear-gradient(180deg, #FF0057 0%, rgba(255, 0, 87, 0) 100%);
   display: block;
@@ -200,7 +200,7 @@ content: '';
 }
 .dj figcaption{
   opacity: 1 !important;
-}
+} */
 
 
 figure:hover figcaption {
